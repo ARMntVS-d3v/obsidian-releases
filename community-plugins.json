@@ -15594,5 +15594,12 @@
     "author": "Louan Fontenele",
     "description": "Automatically standardizes file names to GitHub style (lowercase, no accents, only -, ., _) while preserving folder structure and file contents. ",
     "repo": "louanfontenele/obsidian-vault-file-renamer"
+  },
+  {
+    "id": "homepage-quick",
+    "name": "Homepage Quick",
+    "author": "ARMntVS-d3v",
+    "description": "A plugin to instantly open your homepage when launching Obsidian.",
+    "repo": "ARMntVS-d3v/obsidian-homepage-quick"
   }
 ]
